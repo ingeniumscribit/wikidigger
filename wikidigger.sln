@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLayer.Implementatio
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLayer.Implementation.Test", "DataAccessLayer.Implementation.Test\DataAccessLayer.Implementation.Test.csproj", "{1A8FB1B8-9B70-44C6-AD3B-4D7FBEB6C277}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RssReaderConsole", "RssReaderConsole\RssReaderConsole.csproj", "{2B814AB0-DA89-436F-B811-0E2A95AD4B65}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{1A8FB1B8-9B70-44C6-AD3B-4D7FBEB6C277}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1A8FB1B8-9B70-44C6-AD3B-4D7FBEB6C277}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1A8FB1B8-9B70-44C6-AD3B-4D7FBEB6C277}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B814AB0-DA89-436F-B811-0E2A95AD4B65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B814AB0-DA89-436F-B811-0E2A95AD4B65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B814AB0-DA89-436F-B811-0E2A95AD4B65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B814AB0-DA89-436F-B811-0E2A95AD4B65}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -64,5 +70,6 @@ Global
 		{85DB9513-89F8-4A6A-AA3D-6091D8ACC431} = {57ACC405-ABF2-47C1-A472-924A1FA27B33}
 		{1DE3A9C2-A680-402D-82C3-D31A1B84BEB1} = {77BF293A-B1CD-4625-970E-A403FEE627CB}
 		{1A8FB1B8-9B70-44C6-AD3B-4D7FBEB6C277} = {57ACC405-ABF2-47C1-A472-924A1FA27B33}
+		{2B814AB0-DA89-436F-B811-0E2A95AD4B65} = {23343618-014C-4B57-B53D-3281E8464722}
 	EndGlobalSection
 EndGlobal
